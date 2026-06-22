@@ -2,7 +2,7 @@
 
 A Claude Code skill that audits whether a **consumer Figma file** is in sync with your Design System library.
 
-Compares the DS token snapshot against the consumer file's linked library copy and local brand overrides. Outputs an interactive HTML report with collection tabs, per-status filter buttons, and a color-coded token table.
+Compares the Design System token snapshot in Figma against the consumer file's linked library copy, including overrides made through extended collections or local variables. Outputs an interactive HTML report with collection tabs, per-status filter buttons, and a color-coded token table.
 
 ---
 
